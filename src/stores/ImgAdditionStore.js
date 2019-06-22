@@ -98,7 +98,6 @@ class ImgAdditionStore {
 
   updateImgURL(newValue) {
     this.imgURL = newValue;
-    console.log('this.imgURL: ', this.imgURL);
   }
 }
 

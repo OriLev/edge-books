@@ -36,14 +36,12 @@ const StyledButton = styled(Button)({
 
 const ImgAdditionForm = ({ bookId, imgAddition: formState }) => {
   const handleChange = (e) => {
-    console.log('input.value: ', e.target.value);
     formState.updateImgURL(e.target.value);
   };
   const onSubmit = (e) => {
     e.preventDefault();
     formState.addImage(bookId);
   };
-  console.log('rendered');
   return (
     <StyledForm onSubmit={onSubmit}>
       <StyledFormControl error={formState.isErrorState}>
