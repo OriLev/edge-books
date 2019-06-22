@@ -12,6 +12,7 @@ import { replaceImg } from '../../utils/text';
 const styles = theme => ({
   container: {
     marginTop: theme.spacing(1),
+    paddingBottom: theme.spacing(2),
   },
   gridList: {
     width: '100%',
@@ -44,7 +45,7 @@ const ImagesGrid = ({ classes, images, width }) => {
     <Container className={classes.container}>
       <GridList
         cellHeight="auto"
-        spacing={5}
+        spacing={16}
         className={classes.gridList}
         cols={getGridListCols()}
       >

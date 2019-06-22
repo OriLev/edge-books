@@ -18,6 +18,10 @@ const {
 const styles = theme => ({
   bookContainer: {
     paddingTop: theme.spacing(8),
+    paddingRight: theme.spacing(2),
+    paddingLeft: theme.spacing(2),
+    paddingBottom: theme.spacing(2),
+    marginBottom: theme.spacing(2),
     minWidth: '80%',
     minHeight: '80vh',
     margin: '10px auto auto',
