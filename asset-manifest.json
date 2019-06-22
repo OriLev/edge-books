@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/edge-books/static/css/main.9e855d66.chunk.css",
-    "main.js": "/edge-books/static/js/main.e2157c45.chunk.js",
-    "main.js.map": "/edge-books/static/js/main.e2157c45.chunk.js.map",
+    "main.js": "/edge-books/static/js/main.6d53d6d4.chunk.js",
+    "main.js.map": "/edge-books/static/js/main.6d53d6d4.chunk.js.map",
     "runtime~main.js": "/edge-books/static/js/runtime~main.2e24e2fb.js",
     "runtime~main.js.map": "/edge-books/static/js/runtime~main.2e24e2fb.js.map",
     "static/js/2.6772a36e.chunk.js": "/edge-books/static/js/2.6772a36e.chunk.js",
     "static/js/2.6772a36e.chunk.js.map": "/edge-books/static/js/2.6772a36e.chunk.js.map",
     "index.html": "/edge-books/index.html",
-    "precache-manifest.19dd44fe171aa1b98ef4ec1b3f1f073f.js": "/edge-books/precache-manifest.19dd44fe171aa1b98ef4ec1b3f1f073f.js",
+    "precache-manifest.71d078c70ba7851296c4417071d1411c.js": "/edge-books/precache-manifest.71d078c70ba7851296c4417071d1411c.js",
     "service-worker.js": "/edge-books/service-worker.js",
     "static/css/main.9e855d66.chunk.css.map": "/edge-books/static/css/main.9e855d66.chunk.css.map"
   }
