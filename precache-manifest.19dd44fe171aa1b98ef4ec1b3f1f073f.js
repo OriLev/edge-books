@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "52df683ccdd6e705a8aa1d3d61c70bfa",
+    "revision": "1fcde00bdf2b263c4088a2500d0c9395",
     "url": "/edge-books/index.html"
   },
   {
-    "revision": "52424180fa7733779dc6",
+    "revision": "ad33263f20e4e2f89bdb",
     "url": "/edge-books/static/css/main.9e855d66.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/edge-books/static/js/2.6772a36e.chunk.js"
   },
   {
-    "revision": "52424180fa7733779dc6",
-    "url": "/edge-books/static/js/main.3c5d265c.chunk.js"
+    "revision": "ad33263f20e4e2f89bdb",
+    "url": "/edge-books/static/js/main.e2157c45.chunk.js"
   },
   {
     "revision": "b7341d83d4fe05273869",
